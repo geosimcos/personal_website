@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on A Computer Science Journey</title>
+    <link>https://geosim.me/categories/</link>
+    <description>Recent content in Categories on A Computer Science Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made with &lt;3 in {year}</copyright>
+    <lastBuildDate>Wed, 29 May 2019 03:51:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://geosim.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Operating Systems</title>
+      <link>https://geosim.me/categories/operating-systems/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/categories/operating-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

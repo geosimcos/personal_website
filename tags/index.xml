@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on A Computer Science Journey</title>
+    <link>https://geosim.me/tags/</link>
+    <description>Recent content in Tags on A Computer Science Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made with &lt;3 in {year}</copyright>
+    <lastBuildDate>Wed, 29 May 2019 03:51:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://geosim.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BSD</title>
+      <link>https://geosim.me/tags/bsd/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/tags/bsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berkeley</title>
+      <link>https://geosim.me/tags/berkeley/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/tags/berkeley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS</title>
+      <link>https://geosim.me/tags/os/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems</title>
+      <link>https://geosim.me/tags/systems/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/tags/systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

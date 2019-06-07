@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Un Viaggio nell&#39;informatica</title>
+    <link>https://geosim.me/it/publication/</link>
+    <description>Recent content in Publications on Un Viaggio nell&#39;informatica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Made with &lt;3 in {year}</copyright>
+    
+	<atom:link href="https://geosim.me/it/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

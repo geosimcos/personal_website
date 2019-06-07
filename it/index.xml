@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Un Viaggio nell&#39;informatica</title>
+    <link>https://geosim.me/it/</link>
+    <description>Recent content on Un Viaggio nell&#39;informatica</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>it</language>
+    <copyright>Made with &lt;3 in {year}</copyright>
+    <lastBuildDate>Wed, 29 May 2019 03:51:25 +0200</lastBuildDate>
+    
+	    <atom:link href="https://geosim.me/it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uno sguardo ravvicinato a BSD</title>
+      <link>https://geosim.me/it/post/a-closer-look-to-bsd/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/it/post/a-closer-look-to-bsd/</guid>
+      <description>&lt;p&gt;Sorvolando la necessaria lezione di &lt;a href=&#34;https://it.wikipedia.org/wiki/Unix&#34; target=&#34;_blank&#34;&gt;Storia&lt;/a&gt; prendiamo confidenza con il fantastico mondo UNIX.
+Oggi vorrei trattare di BSD e del suo stato nel 2019.&lt;/p&gt;
+
+&lt;p&gt;Le distro BSD più in uso ad oggi sono: &lt;br&gt;
+    &lt;a href=&#34;https://www.freebsd.org/&#34; target=&#34;_blank&#34;&gt;FreeBSD&lt;/a&gt; - &lt;a href=&#34;https://www.openbsd.org/&#34; target=&#34;_blank&#34;&gt;Open BSD&lt;/a&gt; - &lt;a href=&#34;https://www.netbsd.org/&#34; target=&#34;_blank&#34;&gt;NetBSD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Altro Progetto interessante che si basa su FreeBSD è &lt;a href=&#34;https://www.trueos.org/&#34; target=&#34;_blank&#34;&gt;TrueOS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Le differenze che ci sono tra FreeBSD ed OpenBSD sono molteplici. &lt;br&gt; La prima cerca di sviluppare un sistema desktop moderno e comlpeto, con tutti
+i problemi che ne derivano la seconda è completamente concentrata sulla security e sulla completa trasparenza, oltre ad essere esente da contenuti non Open, che la rendono di fatto una delle distribuzioni di default più sicure nel panorama OpenSource.&lt;/p&gt;
+
+&lt;p&gt;Personalmente ho usato FreeBSD e vorrei concentrarmi su quest&amp;rsquo;ultima. &lt;br&gt; Di recente dopo moltissimo tempo e con grande sorpresa ho trovato una Distro completa e che ben si adatta ad ogni uso, per cui ho tenuto una VM che uso per hostare alcuni Servizi. In futuro (tempo permettendo) ho intenzione di pubblicare dei benchmark fatti con la suite &lt;a href=&#34;http://www.phoronix-test-suite.com/&#34; target=&#34;_blank&#34;&gt;Phoronix&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://geosim.me/img/FreeBSD_screenshot.jpg&#34; alt=&#34;Screenshot&#34; title=&#34;FreeBSD&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una caratteristica che contraddistingue FreeBSD dalle altre Distro è l&amp;rsquo;implementazione nativa del &lt;a href=&#34;https://itsfoss.com/what-is-zfs/&#34; target=&#34;_blank&#34;&gt;Filesystem ZFS&lt;/a&gt; a differenza di Linux che usa l&amp;rsquo;implementazione ZoL
+non ancora perfetta - è un win-win per quanto riguarda la gestione dello storage.
+I Vantaggi nell&amp;rsquo;utilizzo di un filesystem come ZFS sono molteplici e da prendere in considerazione per sistemi mission-critical risultando comunque in una configurazione abbastanza semplice e ben documentata.&lt;/p&gt;
+
+&lt;p&gt;Sono rimasto molto sorpreso quando ho scoperto che Netflix per implementare la sua CDN ha usato FreeBSD sulle piattaforme proprietarie Open Connect riuscendo a garantire prestazioni mostruose ( fino a 90 Gb/s ) con connessioni criptate TLS mantenendo la CPU al 55% (16 core a 2.6 Ghz). &lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fonte&lt;/strong&gt;   &lt;a href=&#34;https://fosdem.org/2019/schedule/event/netflix_freebsd&#34; target=&#34;_blank&#34;&gt;Netflix FOSDem 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://geosim.me/img/netflix-open-connect-appliance.jpeg&#34; alt=&#34;Netflix&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;em&gt;Una appliance Open Connect.&lt;/em&gt; &lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geosim.me/it/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geosim.me/it/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

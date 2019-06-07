@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Un Viaggio nell&#39;informatica</title>
+    <link>https://geosim.me/it/tags/</link>
+    <description>Recent content in Tags on Un Viaggio nell&#39;informatica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Made with &lt;3 in {year}</copyright>
+    <lastBuildDate>Wed, 29 May 2019 03:51:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://geosim.me/it/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BSD</title>
+      <link>https://geosim.me/it/tags/bsd/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/it/tags/bsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berkeley</title>
+      <link>https://geosim.me/it/tags/berkeley/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/it/tags/berkeley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netflix</title>
+      <link>https://geosim.me/it/tags/netflix/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/it/tags/netflix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS</title>
+      <link>https://geosim.me/it/tags/os/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/it/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems</title>
+      <link>https://geosim.me/it/tags/systems/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/it/tags/systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

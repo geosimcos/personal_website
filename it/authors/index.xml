@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Un Viaggio nell&#39;informatica</title>
+    <link>https://geosim.me/it/authors/</link>
+    <description>Recent content in Authors on Un Viaggio nell&#39;informatica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Made with &lt;3 in {year}</copyright>
+    
+	<atom:link href="https://geosim.me/it/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://geosim.me/it/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geosim.me/it/authors/admin/</guid>
+      <description>Questo sito è uno spazio personale che intendo dedicare per scrivere dei piccoli articoli sul mio percorso nell&amp;rsquo;informatica attraverso aneddoti e dettagli sulle tecnologie che mi interessano. Spero di essere anche utile ad altri studenti che sono in cerca di materiale per approfondire determinati argomenti.
+Al momento sto studiando per la laurea triennale in Informatica.
+Fan di *NIX  Sostengo la LinuxFoundation e la Cultura OpenSource  Sostengo il Progetto OpenScience</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Computer Science Journey</title>
+    <link>https://geosim.me/post/</link>
+    <description>Recent content in Posts on A Computer Science Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made with &lt;3 in {year}</copyright>
+    <lastBuildDate>Wed, 29 May 2019 03:51:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://geosim.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Closer Look to BSD</title>
+      <link>https://geosim.me/post/a-closer-look-to-bsd/</link>
+      <pubDate>Wed, 29 May 2019 03:51:25 +0200</pubDate>
+      
+      <guid>https://geosim.me/post/a-closer-look-to-bsd/</guid>
+      <description>Let&amp;rsquo;s take an History lesson and become familiar with the fantastic UNIX universe. Today I would like to talk about BSD and its status in 2019.
+The most common BSD distros to date are: FreeBSD - Open BSD - NetBSD
+Another interesting project based on FreeBSD is TrueOS.
+The main differences between FreeBSD and OpenBSD are notable. The first one tries to develop a complete modern desktop system, facing some common problems that derive from it, the second one is completely focused on security and transparency, as well as being free from non-Open content, which in fact makes it one of the most secure by default distributions in the Open Source panorama.</description>
+    </item>
+    
+  </channel>
+</rss>
